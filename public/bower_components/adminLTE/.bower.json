@@ -1,0 +1,13 @@
+{
+  "name": "adminLTE",
+  "homepage": "https://github.com/truongcr7/adminLTE",
+  "_release": "e31b3fa431",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e31b3fa431e7284d9c874d2dcec28bc170865e58"
+  },
+  "_source": "https://github.com/truongcr7/adminLTE.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/truongcr7/adminLTE.git"
+}
